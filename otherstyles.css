@@ -1,0 +1,28 @@
+.common{
+    position: absolute;
+    /* border: 4px solid fuchsia;
+    background-color: rgb(rgba(209, 30, 30, 0.596)); */
+    padding: 5px;
+}
+.footer{
+    bottom: 0px; 
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
+.nav{
+    position: relative; 
+    float: right;
+}
+.header{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.mainbody{
+    top: 54px;
+    width: 100%;
+    bottom: 30px;
+}
